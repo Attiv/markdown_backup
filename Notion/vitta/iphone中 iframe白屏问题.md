@@ -1,0 +1,1 @@
+%E5%9C%A8%20%60cordova%60%20%E9%A1%B9%E7%9B%AE%E9%87%8C%E7%9A%84%20%60config.xml%60%E9%87%8C%E5%8A%A0%E4%B8%8A%0A%60%60%60%0A%20%20%20%20%3Caccess%20origin%3D%22*%22%20%2F%3E%0A%20%20%20%20%3Callow-navigation%20href%3D%22*%22%20%2F%3E%0A%20%20%20%20%3Callow-intent%20href%3D%22*%22%20%2F%3E%0A%60%60%60

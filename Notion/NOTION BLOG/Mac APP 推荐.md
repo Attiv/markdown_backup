@@ -1,0 +1,96 @@
+---
+type: Post
+status: Published
+date: 2023-07-05
+tags:
+  - 工具
+---
+- 截图
+    - cleanshot x (收费)
+    - [shott](https://shottr.cc/) (也收费了)
+- 文件夹
+    - [xtrafinder](https://www.trankynam.com/xtrafinder/)
+    - qspace
+    - openInterminal
+- 密码管理
+    - [bitwarden](https://bitwarden.com/)
+- 终端补全
+    - fig
+- 文件整理
+    - Hazel
+- 下载工具
+    - NDM
+    - motrix
+- 文件预览
+    - galance
+    - [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight/)
+- 粘贴板
+    - fastclip
+    - [maccy](https://maccy.app/) (免费)
+- 清理
+    - tencent lemon
+    - sensi
+    - app cleaner
+- 数据库
+    - tableplus
+    - [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace/tree/production/4.0.6-20048)
+- 翻译
+    - bob
+- 接口调试
+    - paw
+- markdown
+    - mweb pro
+    - [妙言](https://miaoyan.app/) (免费开源)
+- 音乐
+    - lx music
+    - foobar2000
+    - LyricsX
+- git
+    - fork
+    - sourcetree
+    - gitup
+- 笔记
+    - notion
+- 隐藏导航栏
+    - hidden bar
+    - bartender
+- 状态栏工具
+    - eul
+- 微博
+    - vvebo (停止更新)
+    - maipo
+- 图片预览
+    - PictureView
+- 邮箱
+    - Spark
+    - Edison mail
+    - AirMail
+    - Mimestream
+    - Mail.app
+- 其他
+    
+    - hammerspoon
+    - utools
+    - raycast
+    - autojump
+    - iterm2
+    - surge
+    - clashx pro
+    - gotoshell
+    - new file creation
+    - 幕布
+    - vscode
+    - mamp pro
+    - filza
+    - boom 3d
+    - eul (swiftUI 开发demo)
+    - Tickeys
+    - mos
+    - [avn](https://github.com/wbyoung/avn)
+    - isimator
+    - [handbrake](https://handbrake.fr/) (视频压缩)
+    - [dust](https://github.com/bootandy/dust) (终端展示文件大小)
+    - [git diff 美化](https://github.com/so-fancy/diff-so-fancy)
+    - git log 美化 (git config --global alias.hist "log --pretty=format:'%C(yellow)[%ad]%C(reset) %C(green)[%h]%C(reset) | %C(cyan)%s %C(bold red){{%an}}%C(reset) %C(blue)%d%C(reset)' --graph --date=format:'%Y-%m-%d %H:%M:%S'”)
+    - [lux](https://github.com/iawia002/lux)(下载视频)
+    - [KeyboardHolder](https://keyboardholder.leavesc.com/zh-cn/)(自动切换输入法，切换鼠须管后不会影响顶功功能)

@@ -1,0 +1,3 @@
+(_S__R__C__R__O__O__T_)/(PROJECT_NAME)
+
+%24(SRCROOT)%2F%24(PROJECT_NAME)

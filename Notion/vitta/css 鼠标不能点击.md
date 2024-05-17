@@ -1,0 +1,7 @@
+```Plain
+.disabled {
+    pointer-events: none;
+    cursor: default;
+    opacity: 0.6;
+}
+```

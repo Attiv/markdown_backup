@@ -1,0 +1,3 @@
+You can set branch tips to any particular commit. So if you're trying to reset a branch to a particular commit, with your desired branch currently active, select the commit you want to reset to and hit ⌥T. Then your branch will be reset to that commit and you can simply push like normal and GitUp will prompt you to force the push because you've diverged from remote.
+
+![[/Untitled 29.png|Untitled 29.png]]

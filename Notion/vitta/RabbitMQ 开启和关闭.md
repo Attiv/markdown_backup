@@ -1,0 +1,1 @@
+-%20%E5%BC%80%E5%90%AF%3A%20%60rabbitmq-server%60%0A-%20%E5%85%B3%E9%97%AD%3A%20%60rabbitmqctl%20stop%60

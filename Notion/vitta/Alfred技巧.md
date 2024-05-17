@@ -1,0 +1,28 @@
+- / 或previous 文件导航；
+- ~ home;
+- find 文件名 查找文件
+- open 文件名 打开文件
+- in 关键字 打开包含关键字的文件
+- email 联系人 发邮件
+- find 文件名 ->选email to 发email附件
+- clipboard 打开剪贴板历史
+- recent documents 最近使用的文档
+- 》命令行 调用终端
+- =sin(23) 函数计算
+- define 单词 定义词
+- spell 单词 拼写检查
+- itunes itunes
+- screensaver 屏幕保护
+- trash 打开垃圾站
+- emptytrash 清空垃圾站
+- sleep 睡眠
+- shutdown 关机
+- restart 重启
+- logout 注销
+- lock 锁屏
+- hide 应用程序 隐藏应用程序
+- quit 应用程序 退出应用程序
+- forcequit 应用程序 强制退出应用程序
+- eject 推出光盘
+
+-%20%2F%20%E6%88%96previous%20%E6%96%87%E4%BB%B6%E5%AF%BC%E8%88%AA%EF%BC%9B%0A-%20~%20home%3B%0A-%20find%20%E6%96%87%E4%BB%B6%E5%90%8D%20%E6%9F%A5%E6%89%BE%E6%96%87%E4%BB%B6%0A-%20open%20%E6%96%87%E4%BB%B6%E5%90%8D%20%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6%0A-%20in%20%E5%85%B3%E9%94%AE%E5%AD%97%20%E6%89%93%E5%BC%80%E5%8C%85%E5%90%AB%E5%85%B3%E9%94%AE%E5%AD%97%E7%9A%84%E6%96%87%E4%BB%B6%0A-%20email%20%E8%81%94%E7%B3%BB%E4%BA%BA%20%E5%8F%91%E9%82%AE%E4%BB%B6%0A-%20find%20%E6%96%87%E4%BB%B6%E5%90%8D%20-%3E%E9%80%89email%20to%20%E5%8F%91email%E9%99%84%E4%BB%B6%0A-%20clipboard%20%E6%89%93%E5%BC%80%E5%89%AA%E8%B4%B4%E6%9D%BF%E5%8E%86%E5%8F%B2%0A-%20recent%20documents%20%E6%9C%80%E8%BF%91%E4%BD%BF%E7%94%A8%E7%9A%84%E6%96%87%E6%A1%A3%0A-%20%E3%80%8B%E5%91%BD%E4%BB%A4%E8%A1%8C%20%E8%B0%83%E7%94%A8%E7%BB%88%E7%AB%AF%0A-%20%3Dsin(23)%20%E5%87%BD%E6%95%B0%E8%AE%A1%E7%AE%97%0A-%20define%20%E5%8D%95%E8%AF%8D%20%E5%AE%9A%E4%B9%89%E8%AF%8D%0A-%20spell%20%E5%8D%95%E8%AF%8D%20%E6%8B%BC%E5%86%99%E6%A3%80%E6%9F%A5%0A-%20itunes%20itunes%0A-%20screensaver%20%E5%B1%8F%E5%B9%95%E4%BF%9D%E6%8A%A4%0A-%20trash%20%E6%89%93%E5%BC%80%E5%9E%83%E5%9C%BE%E7%AB%99%0A-%20emptytrash%20%E6%B8%85%E7%A9%BA%E5%9E%83%E5%9C%BE%E7%AB%99%0A-%20sleep%20%E7%9D%A1%E7%9C%A0%0A-%20shutdown%20%E5%85%B3%E6%9C%BA%0A-%20restart%20%E9%87%8D%E5%90%AF%0A-%20logout%20%E6%B3%A8%E9%94%80%0A-%20lock%20%E9%94%81%E5%B1%8F%0A-%20hide%20%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%20%E9%9A%90%E8%97%8F%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%0A-%20quit%20%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%20%E9%80%80%E5%87%BA%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%0A-%20forcequit%20%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%20%E5%BC%BA%E5%88%B6%E9%80%80%E5%87%BA%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%0A-%20eject%20%E6%8E%A8%E5%87%BA%E5%85%89%E7%9B%98

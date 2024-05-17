@@ -1,0 +1,1 @@
+li60<framework src="Bugly" type="podspec" spec="~> 2.5.0" />`

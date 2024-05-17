@@ -1,0 +1,1 @@
+`console.time('name') func() console.timeEnd('name')`

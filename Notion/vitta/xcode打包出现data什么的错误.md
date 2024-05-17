@@ -1,0 +1,1 @@
+%60ruby%60%E9%97%AE%E9%A2%98%EF%BC%9A%0A%E5%8F%AF%E4%BB%A5%E5%8F%82%E8%80%83%5B%E8%BF%99%E4%B8%AA%5D(https%3A%2F%2Fblog.diacode.com%2Ffixing-temporary-dir-problems-with-ruby-2)%0A%0A%5B%E4%BF%AE%E6%94%B9%E5%B1%9E%E6%80%A7%E4%B8%BA%60drwxrwxtwt%60%5D(http%3A%2F%2Fblog.csdn.net%2Fjacolin%2Farticle%2Fdetails%2F44236413)%0A(%60chmod%201777%60)

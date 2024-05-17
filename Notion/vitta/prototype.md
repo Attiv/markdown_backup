@@ -1,0 +1,3 @@
+`import * as common from '../common' import * as constants from '../const' import _ from 'lodash' Vue.prototype.$c = _.assignIn({}, common, constants) Vue.prototype._ = _`
+
+%60%60%60%0Aimport%20*%20as%20common%20from%20'..%2Fcommon'%0Aimport%20*%20as%20constants%20from%20'..%2Fconst'%0Aimport%20_%20from%20'lodash'%0A%20Vue.prototype.%24c%20%3D%20_.assignIn(%7B%7D%2C%20common%2C%20constants)%0A%20%20Vue.prototype._%20%3D%20_%0A%20%20%60%60%60
